@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/spatio_temporal_voxel_layer-release.git
 tracks:
   dashing:
     actions:
