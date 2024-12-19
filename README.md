@@ -1,3 +1,28 @@
+## spatio_temporal_voxel_layer (jazzy) - 2.5.4-1
+
+The packages in the `spatio_temporal_voxel_layer` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy spatio_temporal_voxel_layer --override-release-repository-push-url git@github.com:revyos-ros/spatio_temporal_voxel_layer-release.git` on `Thu, 19 Dec 2024 07:49:37 -0000`
+
+These packages were released:
+- `openvdb_vendor`
+- `spatio_temporal_voxel_layer`
+
+Version of package(s) in repository `spatio_temporal_voxel_layer`:
+
+- upstream repository: https://github.com/SteveMacenski/spatio_temporal_voxel_layer.git
+- release repository: https://github.com/revyos-ros/spatio_temporal_voxel_layer-release.git
+- rosdistro version: `2.5.4-1`
+- old version: `null`
+- new version: `2.5.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## spatio_temporal_voxel_layer (humble) - 2.3.3-1
 
 The packages in the `spatio_temporal_voxel_layer` repository were released into the `humble` distro by running `/tmp/venv/bin/bloom-release -r humble spatio_temporal_voxel_layer --override-release-repository-push-url git@github.com:revyos-ros/spatio_temporal_voxel_layer-release.git` on `Wed, 18 Dec 2024 13:00:31 -0000`
